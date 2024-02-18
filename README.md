@@ -1,12 +1,6 @@
 # transmissionMaterial-three.js
 
-## Description
-
-Example using custom tranmission material by [N8Programs](https://github.com/N8python) and Paul from r3f
-
-## Tutorial
-
-Watch the speedcode tutorial that includes Blender too (https://www.youtube.com/watch?v=tfVWCqO1hec&t=13s)
+https://transmission-mesh-in-three-js-showcase.vercel.app/
 
 ## Installation
 
